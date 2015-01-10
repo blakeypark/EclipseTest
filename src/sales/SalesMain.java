@@ -2,7 +2,7 @@ package sales;
 
 public class SalesMain {
 
-	//Add the variables here
+	int [] sales = {1, 10 , 20};
 	
 	public static void main(String[] args) 
 	{
